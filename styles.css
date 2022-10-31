@@ -46,15 +46,6 @@ font-family: 'Lexend Deca', sans-serif;
     background-color: var(--bright-orange);
 }
 
-.card:nth-child(2) {
-    background-color: var(--dark-cyan);
-}
-
-.card:nth-child(2) * {
-    background-color: var(--dark-cyan);
-}
-
-
 .card img {
     max-width: 40%;
     margin-bottom: 2em;
